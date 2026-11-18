@@ -1,0 +1,19 @@
+# How much resin do i need
+
+> Calculate rectangular or cylindrical mold volume, subtract displaced volume and add a chosen allowance. Optional component volumes apply only when the manufacturer specifies a ratio by volume.
+
+## Calculator
+- [Open the calculator](https://metricotter.com/): A 10 × 5 × 2 cm rectangular mold with no displacement and 10% extra needs 110 mL of mixed product.
+
+## Method
+Rectangular volume is length × width × depth; cylindrical volume is π × (diameter ÷ 2)² × depth. A cubic centimetre is one millilitre. Subtract displaced volume per mold, multiply by mold count, then add the allowance. For a stated volume ratio A:B, split the total in those proportions.
+
+## Limits
+The example 2:1 ratio is illustrative. Enter the exact ratio and measurement basis from your product instructions. Do not use the component-volume results for a ratio specified by mass. Do not guess density to convert a mass ratio. Follow the manufacturer’s mixing, batch-size and handling instructions.
+
+## Supporting pages
+- [Method and assumptions](https://metricotter.com/method/)
+- [About, editorial responsibility and privacy](https://metricotter.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
