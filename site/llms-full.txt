@@ -5,6 +5,9 @@
 ## Calculator
 - [Open the calculator](https://metricotter.com/): A 10 × 5 × 2 cm rectangular mold with no displacement and 10% extra needs 110 mL of mixed product.
 
+## Guide
+- [How to how much resin do i need](https://metricotter.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+
 ## Method
 Rectangular volume is length × width × depth; cylindrical volume is π × (diameter ÷ 2)² × depth. A cubic centimetre is one millilitre. Subtract displaced volume per mold, multiply by mold count, then add the allowance. For a stated volume ratio A:B, split the total in those proportions.
 
