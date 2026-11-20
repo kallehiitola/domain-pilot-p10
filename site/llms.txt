@@ -1,22 +1,26 @@
 # How much resin do I need?
 
-> Calculate rectangular or cylindrical mold volume, subtract displaced volume and add a chosen allowance. Optional component volumes apply only when the manufacturer specifies a ratio by volume.
+> Calculate rectangular or cylindrical mold volume in US fluid ounces or milliliters, subtract embedded object displacement, add cup-loss allowance, and optionally split volume-ratio Parts A and B.
 
 ## Calculator
-- [Open the calculator](https://metricotter.com/): A 10 × 5 × 2 cm rectangular mold with no displacement and 10% extra needs 110 mL of mixed product.
+- [Open the calculator](https://metricotter.com/): US tray: a 6 × 4 × 1 in mold (13.3 fl oz) with 10% allowance needs 14.6 fl oz (432.6 mL)—7.3 fl oz each for a 1:1 volume ratio. Metric: a 10 × 5 × 2 cm rectangular mold with 10% cup allowance needs 110.0 mL of mixed resin.
 
 ## Guide
-- [How to work out how much resin you need](https://metricotter.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how much resin you need](https://metricotter.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Rectangular volume is length × width × depth; cylindrical volume is π × (diameter ÷ 2)² × depth. A cubic centimetre is one millilitre. Subtract displaced volume per mold, multiply by mold count, then add the allowance. For a stated volume ratio A:B, split the total in those proportions.
+## Formula and method
+Rectangle volume = L × W × depth; Cylinder volume = π × (diameter / 2)² × depth; Mixed batch = (mold volume − displacement) × mold count × (1 + extra / 100).
+
+Compute cavity volume in cubic centimeters (1 cm³ = 1 mL; 1 US fl oz = 29.5735 mL). Subtract the volume displaced by embedded wood or inclusions, multiply by the number of molds, and apply your mixing-cup allowance. When your resin specifies a mixing ratio by volume (A:B), divide the total in those exact proportions.
 
 ## Limits
-The example 2:1 ratio is illustrative. Enter the exact ratio and measurement basis from your product instructions. Do not use the component-volume results for a ratio specified by mass. Do not guess density to convert a mass ratio. Follow the manufacturer’s mixing, batch-size and handling instructions.
+Only use the A:B component split when the manufacturer specifies a ratio by volume—never apply a volume split to a resin mixed by weight, because resin and hardener densities differ. Respect each resin maximum single-pour thickness to avoid overheating, bubbling, or cracking.
 
 ## Supporting pages
 - [Method and assumptions](https://metricotter.com/method/)
 - [About, editorial responsibility and privacy](https://metricotter.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [West System: Epoxy resin basics and mixing ratios](https://www.westsystem.com/instruction/epoxy-basics/)
+- [Wikipedia: Epoxy resin chemistry and curing](https://en.wikipedia.org/wiki/Epoxy)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)

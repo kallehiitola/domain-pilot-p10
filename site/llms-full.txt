@@ -1,43 +1,59 @@
 # How much resin do I need?
 
-> Calculate rectangular or cylindrical mold volume, subtract displaced volume and add a chosen allowance. Optional component volumes apply only when the manufacturer specifies a ratio by volume.
+> Calculate rectangular or cylindrical mold volume in US fluid ounces or milliliters, subtract embedded object displacement, add cup-loss allowance, and optionally split volume-ratio Parts A and B.
 
 ## Calculator
-- [Open the calculator](https://metricotter.com/): A 10 × 5 × 2 cm rectangular mold with no displacement and 10% extra needs 110 mL of mixed product.
+- [Open the calculator](https://metricotter.com/): US tray: a 6 × 4 × 1 in mold (13.3 fl oz) with 10% allowance needs 14.6 fl oz (432.6 mL)—7.3 fl oz each for a 1:1 volume ratio. Metric: a 10 × 5 × 2 cm rectangular mold with 10% cup allowance needs 110.0 mL of mixed resin.
 
 ## Guide
-- [How to work out how much resin you need](https://metricotter.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how much resin you need](https://metricotter.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Rectangular volume is length × width × depth; cylindrical volume is π × (diameter ÷ 2)² × depth. A cubic centimetre is one millilitre. Subtract displaced volume per mold, multiply by mold count, then add the allowance. For a stated volume ratio A:B, split the total in those proportions.
+## Formula and method
+Rectangle volume = L × W × depth; Cylinder volume = π × (diameter / 2)² × depth; Mixed batch = (mold volume − displacement) × mold count × (1 + extra / 100).
+
+Compute cavity volume in cubic centimeters (1 cm³ = 1 mL; 1 US fl oz = 29.5735 mL). Subtract the volume displaced by embedded wood or inclusions, multiply by the number of molds, and apply your mixing-cup allowance. When your resin specifies a mixing ratio by volume (A:B), divide the total in those exact proportions.
 
 ## Limits
-The example 2:1 ratio is illustrative. Enter the exact ratio and measurement basis from your product instructions. Do not use the component-volume results for a ratio specified by mass. Do not guess density to convert a mass ratio. Follow the manufacturer’s mixing, batch-size and handling instructions.
+Only use the A:B component split when the manufacturer specifies a ratio by volume—never apply a volume split to a resin mixed by weight, because resin and hardener densities differ. Respect each resin maximum single-pour thickness to avoid overheating, bubbling, or cracking.
 
 ## Supporting pages
 - [Method and assumptions](https://metricotter.com/method/)
 - [About, editorial responsibility and privacy](https://metricotter.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [West System: Epoxy resin basics and mixing ratios](https://www.westsystem.com/instruction/epoxy-basics/)
+- [Wikipedia: Epoxy resin chemistry and curing](https://en.wikipedia.org/wiki/Epoxy)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
+
+## Common epoxy types, pour-depth limits, and volume conversions
+
+Always verify mix basis (by volume vs by weight) and maximum single-layer pour thickness on the container datasheet.
+
+| Resin category | Typical mix ratio | Typical max pour depth | Quick volume conversions |
+| --- | --- | --- | --- |
+| Art / tabletop coating epoxy | 1:1 by volume | 1/8 – 1/4 in (3–6 mm) | 1 US fl oz = 29.57 mL |
+| Craft / jewelry casting resin | 1:1 or 2:1 by volume | 1/4 – 1/2 in (6–12 mm) | 1 cubic inch = 16.39 mL (0.554 fl oz) |
+| Deep-pour river-table epoxy | 2:1 or 3:1 (check volume vs weight) | 1 – 2 in (25–50 mm) | 1 US cup = 8 fl oz = 236.6 mL |
+| Laminating / marine epoxy | 2:1 to 5:1 (often by weight/pump) | Thin coats / fiberglass cloth | 1 US quart = 32 fl oz = 946.4 mL |
 
 ## Step by step
-1. Measure the inside of the mold: length and width for a rectangle, or the diameter for a round mold, plus the depth you will fill.
-2. Work out the volume. For a rectangle multiply length × width × depth; for a cylinder use π × radius² × depth. One cubic centimetre is one millilitre.
-3. Subtract the volume of anything you embed, such as wood, stones or dried flowers.
-4. Add an allowance for resin left in the cup, then split the total into parts A and B using the ratio on the product.
+1. Select rectangle or cylinder and measure the inside cavity dimensions plus the exact fill depth you intend to pour.
+2. If embedding wood, stones, or dried items, estimate their displaced volume so you do not overfill the mold.
+3. Add a 5% to 15% allowance for resin that clings to mixing cups and stir sticks, especially on small batches.
+4. Only check the volume-ratio split if your resin instructions specify mixing by volume (e.g., 1:1 or 2:1 by volume). For weight ratios, weigh each part on a gram scale instead.
 
 ## Common mistakes
-- Mixing by weight when the product gives a volume ratio, or the other way round. The two ratios are usually different.
-- Pouring deeper than the product's maximum layer thickness. Deep pours can overheat and crack.
-- Mixing too little and having to make a second batch in the middle of a pour.
+- Using a volume calculator to split a resin whose product sheet specifies a ratio by weight—Part A and Part B usually have different densities.
+- Exceeding the product maximum pour depth per layer. Pouring tabletop epoxy thicker than ~1/4 in (6 mm) can overheat, yellow, bubble, or crack.
+- Forgetting cup loss on tiny pours like jewelry or coasters, where 5 to 10 mL stays coated on the mixing cup walls.
+- Guessing cure math when a mold has tapered sides or rounded corners—measure average width or test capacity with water first (dry completely before pouring).
 
 ## Worked examples
 ### Example 1
-A 10 × 5 × 2 cm rectangular mold with no displacement and 10% extra needs 110 mL of mixed product.
+Metric: a 10 × 5 × 2 cm rectangular mold with 10% cup allowance needs 110.0 mL of mixed resin.
 
 ### Example 2
-A cylinder 10 cm in diameter and 2 cm deep holds about 157.08 mL before any allowance.
+US tray: a 6 × 4 × 1 in mold (13.3 fl oz) with 10% allowance needs 14.6 fl oz (432.6 mL)—7.3 fl oz each for a 1:1 volume ratio.
 
 ### Example 3
-Only if the product specifies 2:1 by volume, a 110 mL batch splits into about 73.33 mL A and 36.67 mL B.
+Round mold: a 10 cm diameter cylinder filled 2 cm deep holds about 157.1 mL (5.3 fl oz) before allowance.
